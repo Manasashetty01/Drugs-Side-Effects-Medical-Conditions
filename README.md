@@ -81,9 +81,13 @@ Key columns in the dataset:
 ## 💡 Insights
 
 ✔️ Most ratings are moderate (6–9).
+
 ✔️ Weight-loss & antidepressant drugs dominate review counts.
+
 ✔️ Many `"Unknown"` entries highlight missing data.
+
 ✔️ Text parsing created noise (e.g., “lips”, “tongue” as side effects).
+
 ✔️ High review counts do not guarantee higher ratings.
 
 ---
